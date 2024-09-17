@@ -15,7 +15,9 @@ This fictional project aims to create a secure authentication system for physica
 - Each product linked to an unforgeable NFT
 - Guaranteed product authenticity for customers
 - Resale capability in the second-hand market with NFT certificate transfer
-This system ensures product authenticity, enables secure transactions, and facilitates ownership transfer in the secondary market.<br />
+
+This system ensures product authenticity, enables secure transactions, and facilitates ownership transfer in the secondary market.
+<br />
 
 ![1](https://github.com/user-attachments/assets/d644e706-c208-4b8f-8c00-028e9cd8bd91)
 <img width="1006" alt="Capture d’écran 2024-09-17 à 12 11 37" src="https://github.com/user-attachments/assets/28964ea5-4268-43d5-a682-f91c695ad417">
